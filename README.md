@@ -33,19 +33,6 @@ ArrayList
 Scanner
 Object-Oriented Programming (OOP)
 
-Project Structure
-StudentInformationSystem/
-
-├── README.md
-├── StudentInformationSystem.java
-├── screenshots/
-│   ├── menu.png
-│   ├── add_student.png
-│   ├── view_students.png
-│   ├── search_student.png
-│   └── update_student.png
-└── test_data/
-    └── sample_students.txt
 
 Installation
 Step 1
@@ -81,20 +68,21 @@ Menu
 4. Update Student
 5. Exit
 Sample Output
+
 === ADD NEW STUDENT ===
 
 Enter Student ID : S001
+
 Enter Name : Sachin
+
 Enter Age : 20
+
 Enter Grade : 85.5
+
 Enter Contact : 9876543210
 
-Student added successfully!
-=== ALL STUDENTS ===
 
-Student ID      Name                Age     Grade     Contact
----------------------------------------------------------------------
-S001            Sachin              20      85.50     9876543210
+
 Technical Concepts Used
 Classes and Objects
 Constructors
